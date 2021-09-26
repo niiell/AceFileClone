@@ -1,0 +1,60 @@
+[03-Sep-2019 01:08:12 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Wimember\Wimember_db::update_filename(), 1 passed in /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php on line 8 and exactly 2 expected in /home/oophwxqx/gshare.wimember.me/library/file/class.php:161
+Stack trace:
+#0 /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php(8): Wimember\Wimember_db->update_filename('3EfS3w')
+#1 {main}
+  thrown in /home/oophwxqx/gshare.wimember.me/library/file/class.php on line 161
+[03-Sep-2019 01:08:22 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Wimember\Wimember_db::update_filename(), 1 passed in /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php on line 8 and exactly 2 expected in /home/oophwxqx/gshare.wimember.me/library/file/class.php:161
+Stack trace:
+#0 /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php(8): Wimember\Wimember_db->update_filename('3EfS3w')
+#1 {main}
+  thrown in /home/oophwxqx/gshare.wimember.me/library/file/class.php on line 161
+[03-Sep-2019 01:08:22 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Wimember\Wimember_db::update_filename(), 1 passed in /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php on line 8 and exactly 2 expected in /home/oophwxqx/gshare.wimember.me/library/file/class.php:161
+Stack trace:
+#0 /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php(8): Wimember\Wimember_db->update_filename('3EfS3w')
+#1 {main}
+  thrown in /home/oophwxqx/gshare.wimember.me/library/file/class.php on line 161
+[03-Sep-2019 01:08:22 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Wimember\Wimember_db::update_filename(), 1 passed in /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php on line 8 and exactly 2 expected in /home/oophwxqx/gshare.wimember.me/library/file/class.php:161
+Stack trace:
+#0 /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php(8): Wimember\Wimember_db->update_filename('3EfS3w')
+#1 {main}
+  thrown in /home/oophwxqx/gshare.wimember.me/library/file/class.php on line 161
+[03-Sep-2019 01:08:22 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Wimember\Wimember_db::update_filename(), 1 passed in /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php on line 8 and exactly 2 expected in /home/oophwxqx/gshare.wimember.me/library/file/class.php:161
+Stack trace:
+#0 /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php(8): Wimember\Wimember_db->update_filename('3EfS3w')
+#1 {main}
+  thrown in /home/oophwxqx/gshare.wimember.me/library/file/class.php on line 161
+[03-Sep-2019 01:08:22 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Wimember\Wimember_db::update_filename(), 1 passed in /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php on line 8 and exactly 2 expected in /home/oophwxqx/gshare.wimember.me/library/file/class.php:161
+Stack trace:
+#0 /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php(8): Wimember\Wimember_db->update_filename('3EfS3w')
+#1 {main}
+  thrown in /home/oophwxqx/gshare.wimember.me/library/file/class.php on line 161
+[03-Sep-2019 01:08:23 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Wimember\Wimember_db::update_filename(), 1 passed in /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php on line 8 and exactly 2 expected in /home/oophwxqx/gshare.wimember.me/library/file/class.php:161
+Stack trace:
+#0 /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php(8): Wimember\Wimember_db->update_filename('3EfS3w')
+#1 {main}
+  thrown in /home/oophwxqx/gshare.wimember.me/library/file/class.php on line 161
+[03-Sep-2019 01:08:23 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Wimember\Wimember_db::update_filename(), 1 passed in /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php on line 8 and exactly 2 expected in /home/oophwxqx/gshare.wimember.me/library/file/class.php:161
+Stack trace:
+#0 /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php(8): Wimember\Wimember_db->update_filename('3EfS3w')
+#1 {main}
+  thrown in /home/oophwxqx/gshare.wimember.me/library/file/class.php on line 161
+[03-Sep-2019 01:08:23 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Wimember\Wimember_db::update_filename(), 1 passed in /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php on line 8 and exactly 2 expected in /home/oophwxqx/gshare.wimember.me/library/file/class.php:161
+Stack trace:
+#0 /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php(8): Wimember\Wimember_db->update_filename('3EfS3w')
+#1 {main}
+  thrown in /home/oophwxqx/gshare.wimember.me/library/file/class.php on line 161
+[03-Sep-2019 01:08:23 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Wimember\Wimember_db::update_filename(), 1 passed in /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php on line 8 and exactly 2 expected in /home/oophwxqx/gshare.wimember.me/library/file/class.php:161
+Stack trace:
+#0 /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php(8): Wimember\Wimember_db->update_filename('3EfS3w')
+#1 {main}
+  thrown in /home/oophwxqx/gshare.wimember.me/library/file/class.php on line 161
+[03-Sep-2019 01:08:23 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Wimember\Wimember_db::update_filename(), 1 passed in /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php on line 8 and exactly 2 expected in /home/oophwxqx/gshare.wimember.me/library/file/class.php:161
+Stack trace:
+#0 /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php(8): Wimember\Wimember_db->update_filename('3EfS3w')
+#1 {main}
+  thrown in /home/oophwxqx/gshare.wimember.me/library/file/class.php on line 161
+[03-Sep-2019 01:09:11 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Wimember\Wimember_db::update_filename(), 1 passed in /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php on line 8 and exactly 2 expected in /home/oophwxqx/gshare.wimember.me/library/file/class.php:161
+Stack trace:
+#0 /home/oophwxqx/gshare.wimember.me/system/filemanager/update-filename.php(8): Wimember\Wimember_db->update_filename('3EfS3w')
+#1 {main}
+  thrown in /home/oophwxqx/gshare.wimember.me/library/file/class.php on line 161
